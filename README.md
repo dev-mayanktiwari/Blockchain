@@ -94,8 +94,8 @@ Follow the steps below to deploy the smart contract on MyEtherWallet using Ganac
 5. Save and unlock your wallet using one of the Ganache accounts.
 ## Additional Tools Used
 
-- Ganache: A personal blockchain for Ethereum development. [Download here] (https://trufflesuite.com/ganache/).
-- MyEtherWallet: An open-source, client-side interface for interacting with the Ethereum blockchain. [Access here] (https://github.com/MyEtherWallet/MyEtherWallet).
+- Ganache: A personal blockchain for Ethereum development. [Download here](https://trufflesuite.com/ganache/).
+- MyEtherWallet: An open-source, client-side interface for interacting with the Ethereum blockchain. [Access here](https://github.com/MyEtherWallet/MyEtherWallet).
 
 ## Feedback
 
